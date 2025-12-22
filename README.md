@@ -19,6 +19,7 @@ OpenCV – for handling image/video input
 
 Project Structure
 hand-sign-recognition-and-classification/
+
 ├── app.py                # Flask application
 ├── class_model.py        # Model loading and prediction logic
 ├── model/                # Trained ML model files
