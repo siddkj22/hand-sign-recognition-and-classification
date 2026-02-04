@@ -1,3 +1,4 @@
 a web application that can detect various hand signs.
+developed a cnn model from scratch and trained it to detect signs.
 Application tracks hand of user and show in live what hand sign user is doing onscreen.
 Deep learning mode is developed using tensorflow. for backend Flask is used
