@@ -52,7 +52,7 @@ x_test = x_test_data.reshape(-1,28,28,1)
 
 
 
-"""model"""
+"""model layers"""
 
 model = tf.keras.Sequential()
 
