@@ -13,6 +13,8 @@ mp_drawing_styles = mp.solutions.drawing_styles
 mp_hands = mp.solutions.hands 
 
 label = ['a','b','c','d','e','f','g','h','i','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y']
+
+#cnn model
 model = tf.keras.models.load_model("D:\\model\\my_model.h5")
 
 padd = 20
